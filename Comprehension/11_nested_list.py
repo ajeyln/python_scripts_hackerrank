@@ -13,7 +13,7 @@ scores=[]
 for a in mark_sheet.values():
     scores.append(a)
 sorted_scores=list(sorted(set(scores)))
-second_scores=sorted_scores[-2]
+second_scores=sorted_scores[1]
 
 names = []
 for key,values in mark_sheet.items():
