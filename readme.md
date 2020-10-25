@@ -12,23 +12,22 @@ Some of the puzzle solved easily and for rest I took help from various Sources s
 
 <h2>Content :</h2>
 
-01. [x] Intro  <br />
-02. [x] Data type <br />
-03. [x] Strings <br />
-04. [ ] Sets <br />
-05. [ ] Math <br />
-06. [ ] **Itertools** <br />
-07. [ ] **Collections** <br />
-08. [ ] Date and Time <br />
-09. [ ] **Errors and Exceptions** <br />
-10. [ ] **Classes** <br />
-11. [ ] Builtins  <br />
-12. [ ] Python Functions <br />
-13. [ ] **Regex** <br />
-14. [ ] Closures and Decorators <br />
-15. [ ] **Numpy** <br />
-16. [ ] **Debugging**
-
+[x] 01. Intro  <br />
+[x] 02. Data type <br />
+[x] 03. Strings <br />
+[ ] 04. Sets <br />
+[ ] 05. Math <br />
+[ ] 06. **Itertools** :exclamation: <br />
+[ ] 07. **Collections** :exclamation: <br />
+[ ] 08. Date and Time <br />
+[ ] 09. **Errors and Exceptions** :exclamation: <br />
+[ ] 10. **Classes** :exclamation: <br />
+[ ] 11. Builtins  <br />
+[ ] 12. Python Functions <br />
+[ ] 13. **Regex** :exclamation: <br />
+[ ] 14. Closures and Decorators <br />
+[ ] 15. **Numpy** :exclamation: <br />
+[ ] 16. **Debugging** :exclamation: <br />
 
 
 
