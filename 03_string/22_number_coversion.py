@@ -7,7 +7,7 @@
 
 def print_formatted(number):
     for i in range(1, number+1):
-        print(f'{i:15d} {i:15o} {i:15X} {i:15b}')5
+        print(f'{i:15d} {i:15o} {i:15X} {i:15b}')
         
 
 if __name__ == '__main__':
