@@ -15,11 +15,11 @@ Some of the puzzle solved easily and for rest I took help from various Sources s
 [x] 01. Intro  <br />
 [x] 02. Data type <br />
 [x] 03. Strings <br />
-[ ] 04. Sets <br />
-[ ] 05. Math <br />
-[ ] 06. **Itertools** :exclamation: <br />
-[ ] 07. **Collections** :exclamation: <br />
-[ ] 08. Date and Time <br />
+[x] 04. Sets <br />
+[x] 05. Math <br />
+[x] 06. **Itertools** :exclamation: <br />
+[x] 07. **Collections** :exclamation: <br />
+[x] 08. Date and Time <br />
 [ ] 09. **Errors and Exceptions** :exclamation: <br />
 [ ] 10. **Classes** :exclamation: <br />
 [ ] 11. Builtins  <br />
