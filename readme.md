@@ -20,8 +20,8 @@ Some of the puzzle solved easily and for rest I took help from various Sources s
 [x] 06. **Itertools** :exclamation: <br />
 [x] 07. **Collections** :exclamation: <br />
 [x] 08. Date and Time <br />
-[ ] 09. **Errors and Exceptions** :exclamation: <br />
-[ ] 10. **Classes** :exclamation: <br />
+[x] 09. **Errors and Exceptions** :exclamation: <br />
+[x] 10. **Classes** :exclamation: <br />
 [ ] 11. Builtins  <br />
 [ ] 12. Python Functions <br />
 [ ] 13. **Regex** :exclamation: <br />
