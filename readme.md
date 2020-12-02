@@ -26,7 +26,7 @@ Some of the puzzle solved easily and for rest I took help from various Sources s
 [ ] 12. Python Functions <br />
 [ ] 13. **Regex** :exclamation: <br />
 [ ] 14. Closures and Decorators <br />
-[ ] 15. **Numpy** :exclamation: <br />
+[x] 15. **Numpy** :exclamation: <br />
 [ ] 16. **Debugging** :exclamation: <br />
 
 
