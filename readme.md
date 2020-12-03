@@ -23,7 +23,7 @@ Some of the puzzle solved easily and for rest I took help from various Sources s
 [x] 09. **Errors and Exceptions** :exclamation: <br />
 [x] 10. **Classes** :exclamation: <br />
 [ ] 11. Builtins  <br />
-[ ] 12. Python Functions <br />
+[x] 12. Python Functions <br />
 [ ] 13. **Regex** :exclamation: <br />
 [ ] 14. Closures and Decorators <br />
 [x] 15. **Numpy** :exclamation: <br />
