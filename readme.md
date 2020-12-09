@@ -22,12 +22,12 @@ Some of the puzzle solved easily and for rest I took help from various Sources s
 [x] 08. Date and Time <br />
 [x] 09. **Errors and Exceptions** :exclamation: <br />
 [x] 10. **Classes** :exclamation: <br />
-[ ] 11. Builtins  <br />
+[x] 11. Builtins  <br />
 [x] 12. Python Functions <br />
-[ ] 13. **Regex** :exclamation: <br />
+[x] 13. **Regex** :exclamation: <br />
 [x ] 14. Closures and Decorators <br />
 [x] 15. **Numpy** :exclamation: <br />
-[ ] 16. **Debugging** :exclamation: <br />
+[x] 16. **Debugging** :exclamation: <br />
 
 
 
