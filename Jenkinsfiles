@@ -5,7 +5,7 @@ pipeline {
             steps {
                 echo 'Hello World'
                 bat 'echo  %PATH%'
-                git 'https://github.com/ajeyln/python_scripts_hackerrank.git'
+                checkout([$class: 'GitSCM', branches: [[name: '*/master']], doGenerateSubmoduleConfigurations: false, extensions: [], submoduleCfg: [], userRemoteConfigs: [[url: 'https://github.com/ajeyln/python_scripts_hackerrank.git']]])
                 bat 'dir'
             }
         }
