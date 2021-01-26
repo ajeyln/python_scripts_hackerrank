@@ -1,0 +1,40 @@
+pipeline {
+    agent any
+    stages {
+        stage('Checkout') {
+            steps {
+                echo 'Hello World'
+                bat 'echo  %PATH%'
+                git 'https://github.com/ajeyln/python_scripts_hackerrank.git'
+                bat 'dir'
+            }
+        }
+        stage('Parameters') {
+            steps {
+                echo 'Hello Parameters'
+                echo "User is : ${USER}"
+                echo "User is : ${params.USER}"
+                bat 'ipconfig'
+            }
+        }
+        stage('Work') {
+            steps {
+                echo 'Hello Work'
+                bat 'dir'
+            }
+        }
+        stage('Execute') {
+            steps {
+                echo 'Hello Execute'
+                bat 'python --version'
+                bat 'java -version'
+            }
+        }
+        stage('Clean') {
+            steps {
+                echo 'Hello Clean'
+                cleanWs()
+            }
+        }
+    }
+}
